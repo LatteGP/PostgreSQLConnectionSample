@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PostgreSQLConnectionSample</string>
+
+    <!-- データベース情報 -->
+    <string name="host">10.0.2.2</string>
+    <string name="port">5432</string>
+    <string name="database">school</string>
+    <string name="user">postres</string>
+    <string name="password">postres</string>
 </resources>
